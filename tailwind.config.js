@@ -9,6 +9,8 @@ module.exports = {
       fontFamily: {
         ggsans: ["ggsans-normal"],
         ggsans: ['GG Sans', 'sans-serif'], 
+        gintonord: ['"GintoNord"', 'sans-serif'],
+
       },
       spacing: {
         30: "120px",
